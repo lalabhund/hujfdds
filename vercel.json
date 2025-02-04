@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://oognadroognun.net/4/8217669/:path*",
-      "permanent": true
+      "destination": "https://:path*"
     }
   ]
 }
